@@ -1,0 +1,19 @@
+# Project exclude paths
+/hbuy_admin/target/
+/hbuy_buycar/target/
+/hbuy_eureka1/target/
+/hbuy_eureka2/target/
+/hbuy_model/target/
+/hbuy_mongoDB/target/
+/hbuy_orders/target/
+/hbuy_product/target/
+/hbuy_register/target/
+/hbuy_seckill/target/
+/hbuy_service/target/
+/hbuy_solr/target/
+/hbuy_sso/target/
+/hbuy_web/target/
+/hbuy_web_consumer/target/
+/hbuy_web_prodiver1/target/
+/hbuy_web_provider2/target/
+/hbuy_zuul/target/

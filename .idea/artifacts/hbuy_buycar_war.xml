@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hbuy_buycar:war">
+    <output-path>$PROJECT_DIR$/hbuy_buycar/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hbuy_buycar</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hbuy_buycar-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="hbuy_buycar:war exploded" />
+    </root>
+  </artifact>
+</component>

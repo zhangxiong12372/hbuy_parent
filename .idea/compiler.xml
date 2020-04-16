@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hbuy_admin" />
+        <module name="hbuy_web_consumer" />
+        <module name="hbuy_model" />
+        <module name="hbuy_buycar" />
+        <module name="hbuy_service" />
+        <module name="hbuy_eureka2" />
+        <module name="hbuy_eureka1" />
+        <module name="hbuy_mongoDB" />
+        <module name="hbuy_orders" />
+        <module name="hbuy_web_provider2" />
+        <module name="hbuy_product" />
+        <module name="hbuy_seckill" />
+        <module name="hbuy_zuul" />
+        <module name="hbuy_register" />
+        <module name="hbuy_sso" />
+        <module name="hbuy_web" />
+        <module name="hbuy_solr" />
+        <module name="hbuy_web_prodiver1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hbuy_admin" target="1.8" />
+      <module name="hbuy_buycar" target="1.8" />
+      <module name="hbuy_eureka1" target="1.8" />
+      <module name="hbuy_eureka2" target="1.8" />
+      <module name="hbuy_model" target="1.8" />
+      <module name="hbuy_mongoDB" target="1.8" />
+      <module name="hbuy_orders" target="1.8" />
+      <module name="hbuy_parent" target="1.8" />
+      <module name="hbuy_product" target="1.8" />
+      <module name="hbuy_register" target="1.8" />
+      <module name="hbuy_seckill" target="1.8" />
+      <module name="hbuy_service" target="1.8" />
+      <module name="hbuy_solr" target="1.8" />
+      <module name="hbuy_sso" target="1.8" />
+      <module name="hbuy_web" target="1.8" />
+      <module name="hbuy_web_consumer" target="1.8" />
+      <module name="hbuy_web_prodiver1" target="1.8" />
+      <module name="hbuy_web_provider2" target="1.8" />
+      <module name="hbuy_zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hbuy_admin" options="-parameters" />
+      <module name="hbuy_buycar" options="-parameters" />
+      <module name="hbuy_eureka1" options="-parameters" />
+      <module name="hbuy_eureka2" options="-parameters" />
+      <module name="hbuy_model" options="-parameters" />
+      <module name="hbuy_mongoDB" options="-parameters" />
+      <module name="hbuy_orders" options="-parameters" />
+      <module name="hbuy_product" options="-parameters" />
+      <module name="hbuy_register" options="-parameters" />
+      <module name="hbuy_seckill" options="-parameters" />
+      <module name="hbuy_service" options="-parameters" />
+      <module name="hbuy_solr" options="-parameters" />
+      <module name="hbuy_sso" options="-parameters" />
+      <module name="hbuy_web" options="-parameters" />
+      <module name="hbuy_web_consumer" options="-parameters" />
+      <module name="hbuy_web_prodiver1" options="-parameters" />
+      <module name="hbuy_web_provider2" options="-parameters" />
+      <module name="hbuy_zuul" options="-parameters" />
+    </option>
+  </component>
+</project>
